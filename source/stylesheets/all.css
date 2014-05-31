@@ -3,7 +3,7 @@
  *= require_self
  *= require bootstrap_and_overrides
 */
-@charset "utf-8";
+/*@charset "utf-8";
 
 body {
   background: #d4d4d4 url("../images/background.png");
@@ -57,4 +57,4 @@ h1 {
   to {
     -webkit-transform: scale(1);
   }
-}
+}*/

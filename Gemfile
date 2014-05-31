@@ -21,3 +21,5 @@ gem 'middleman-sprockets', '3.3.2'
 gem 'middleman-bootstrap-navbar'
 
 gem 'font-awesome-middleman'
+
+gem 'slim'
